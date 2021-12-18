@@ -1,0 +1,22 @@
+{
+    "cards":[{
+        "img":"images/2.jpeg",
+        "name":"Nokia",
+        "rate":"10000",
+        "offer":"7000",
+        "button":"View"
+    },{
+        "img":"images/2.jpeg",
+        "name":"Iphone",
+        "rate":"700000",
+        "offer":"55000",
+        "button":"View"
+    },{
+        "img":"images/2.jpeg",
+        "name":"Samsung",
+        "rate":"10000",
+        "offer":"7000",
+        "button":"View"
+    }
+   ]
+}
